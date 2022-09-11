@@ -1,0 +1,17 @@
+Скрины после выполнения домашнего задания 21 и 22.
+
+![HM_21 0](https://user-images.githubusercontent.com/101470215/189535666-fd6f5afd-ba39-464a-b9be-a8ea233f894a.PNG)
+![HM_21 1](https://user-images.githubusercontent.com/101470215/189535668-d0608a87-87d5-4491-9c80-29d03aca0337.PNG)
+![HM_21 2](https://user-images.githubusercontent.com/101470215/189535669-c7fd4538-2b2f-48ac-9775-0ecacf337dcf.PNG)
+![HM_21 3](https://user-images.githubusercontent.com/101470215/189535670-264594a8-e1af-4576-b39d-e24611d20517.PNG)
+![HM_21 4](https://user-images.githubusercontent.com/101470215/189535672-28b8be17-0557-45b1-9a1e-2410f4e793a8.PNG)
+![HM_22 1](https://user-images.githubusercontent.com/101470215/189535673-9fc4de94-d449-4ecc-a72d-051dc64a1899.PNG)
+![HM_22 2](https://user-images.githubusercontent.com/101470215/189535674-9938b03e-816c-4fcc-abae-59b228ce8e46.PNG)
+![HM_22 3 (индексы)](https://user-images.githubusercontent.com/101470215/189535675-23a8048b-b50c-4e8f-845a-12351202c8b8.PNG)
+![HM_22 4 (индексы)](https://user-images.githubusercontent.com/101470215/189535677-59719038-2e77-44b9-98af-f503ba9b2b2f.PNG)
+![HM_22 5 (индексы)](https://user-images.githubusercontent.com/101470215/189535678-7083777f-9051-4748-84e2-49f3958868fc.PNG)
+![HM_22 6 (процедуры)](https://user-images.githubusercontent.com/101470215/189535679-9e3741c4-df4d-4022-88f3-977d897a8983.PNG)
+![HM_22 7 (процедуры)](https://user-images.githubusercontent.com/101470215/189535680-014d602d-335c-4e1f-b19f-5ade5acca33d.PNG)
+![HM_22 8 (процедуры)](https://user-images.githubusercontent.com/101470215/189535682-38d79324-a71e-4219-a888-65c4c2748128.PNG)
+![HM_22 9 (транзакция с откатом при ошибке)](https://user-images.githubusercontent.com/101470215/189535683-16655cd6-004c-445e-8f85-c4d734fee273.PNG)
+![HM_22 10 (транзакция с откатом при ошибке)](https://user-images.githubusercontent.com/101470215/189535684-19cfd396-6926-4dc0-9f90-7ca1471173bf.PNG)
